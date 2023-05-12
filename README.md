@@ -2,8 +2,6 @@
 
 https://github.com/kidstonb/belly-button-bacteria/assets/113933033/abb7582d-fd2d-4bb5-9278-332b678ca65d
 
-![](https://github.com/kidstonb/belly-button-bacteria/tree/main/images/demo.mp4)
-
 ### Description
 <p align="justify">
 </p>
@@ -14,5 +12,7 @@ https://github.com/kidstonb/belly-button-bacteria/assets/113933033/abb7582d-fd2d
 
 ### Executing the Program
 
-* Download the 'Code' folder
+* Download the 'static' folder and 'index.html' file
 * Open the 'index.html' in your local web browser 
+
+![](https://github.com/kidstonb/belly-button-bacteria/tree/main/images/demo.mp4)
