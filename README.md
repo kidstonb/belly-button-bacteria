@@ -1,8 +1,6 @@
 # Belly Button Bacteria 
 
-<p align="center">
-  <img src="images/demo.mp4" width="500" title="Overview">
-</p>
+https://github.com/kidstonb/belly-button-bacteria/assets/113933033/abb7582d-fd2d-4bb5-9278-332b678ca65d
 
 ### Description
 <p align="justify">
