@@ -5,6 +5,7 @@ https://github.com/kidstonb/belly-button-bacteria/assets/113933033/abb7582d-fd2d
 ### Description
 <p align="justify">
 </p>
+
 ### Libraries Used
 
 * Leaflet 1.6.0 
@@ -14,5 +15,3 @@ https://github.com/kidstonb/belly-button-bacteria/assets/113933033/abb7582d-fd2d
 
 * Download the 'static' folder and 'index.html' file
 * Open the 'index.html' in your local web browser 
-
-![](https://github.com/kidstonb/belly-button-bacteria/tree/main/images/demo.mp4)
